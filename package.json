@@ -68,6 +68,7 @@
     "CHANGELOG.md",
     "README.md",
     "stacktrace.js",
+    "stacktrace-js.d.ts",
     "dist/"
   ],
   "scripts": {
